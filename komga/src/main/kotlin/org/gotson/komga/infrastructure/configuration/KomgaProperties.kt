@@ -74,7 +74,7 @@ class KomgaProperties {
 
     var pragmas: Map<String, String> = emptyMap()
 
-    var checkLocalFilesystem: Boolean = true
+    var checkLocalFilesystem: Boolean = false
   }
 
   class Fonts {
